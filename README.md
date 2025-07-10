@@ -1,4 +1,4 @@
-##PTL-PEM-at-AU-Lab
+# PTL-PEM-at-AU-Lab
 
 This repository contains synthetic image data and a CNN model related to porous transport layers (PTLs) for proton exchange membrane (PEM) electrolyzers. The objective of this work is to reduce computational modeling costs by using deep learning to predict structural and transport properties of PTLs.
 The data includes:
